@@ -1,0 +1,1 @@
+i=int(input("input 5"))
